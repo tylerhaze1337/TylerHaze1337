@@ -33,7 +33,7 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg](https://github.com/tylerhaze1337/TylerHaze1337/blob/output/github-snake-dark.svg)" />
-  <source media="[(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg](https://github.com/tylerhaze1337/TylerHaze1337/blob/output/github-snake-dark.svg)" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tylerhaze1337/TylerHaze1337/blob/output/github-snake-dark.svg" />
+  <source media="[(prefers-color-scheme: light)" srcset="https://github.com/tylerhaze1337/TylerHaze1337/blob/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/tylerhaze1337/TylerHaze1337/blob/output/github-snake.svg" />
 </picture>
